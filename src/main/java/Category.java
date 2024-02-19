@@ -1,2 +1,4 @@
 public enum Category {
+    MEAT,DIARY, PRODUCE, OTC, CLEANING, BEAUTY, CLOTHES, OTHERS;
+
 }
